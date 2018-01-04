@@ -1,0 +1,20 @@
+[
+	{
+		"GrupoEstudiante":[],
+		"Id":1,
+		"Nombre":"DiegoJose",
+		"Apellido":"Ortega",
+		"FechaNacimiento":"1993-04-21T00:00:00",
+		"Sexo":"M","Codigo":"DO-001",
+		"Estado":"A"
+	},
+	{
+		"GrupoEstudiante":[],
+		"Id":2,
+		"Nombre":"Jose Antonio",
+		"Apellido":"Latin Ortiz",
+		"FechaNacimiento":"1990-07-20T00:00:00",
+		"Sexo":"M","Codigo":"JL-002",
+		"Estado":"B"
+	}
+]
